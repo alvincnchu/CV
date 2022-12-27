@@ -1,16 +1,23 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+# Constraining gravitational wave amplitude birefringence with GWTC-3
+- project: Constraining gravitational wave amplitude birefringence
+  role: Flatiron Institute, Manhattan, NY
+  duration: May 2012 &mdash; Present
+  url: https://thomasckng.github.io/Constraining-Birefringence-with-GWTC-3/
+  description: Supervisors&#58; Prof. Will M. Farr, Dr. Maximiliano Isi, Dr. Kaze W. K. Wong<br><ul class="resume-item-list"><li>Constrain the strength of amplitude birefringence by performing parameter estimations on events in GWTC-3 using Bilby</li><li>Perform statistical analysis to calculate the population probability of the strength of amplitude birefringence using python</li></ul>Publication&#58; T. C. K. Ng, M. Isi, K. W. K. Wong, and W. M. Farr (in prep), Constraining gravitational wave amplitude birefringence with GWTC-3.<br>To be submitted to Physical Review D and uploaded to arXiv in the coming weeks.<br><a href="https://github.com/thomasckng/Constraining-Birefringence-with-GWTC-3/blob/main-pdf/ms.pdf">Draft</a>
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Search of gravitational milli-lensing with flowMC
+- project: Search of gravitational milli-lensing with flowMC
+  role: The Chinese University of Hong Kong
+  duration: Nov 2022 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Supervisors&#58; Prof. Otto A. Hannuksela, Dr. Kaze W. K. Wong<br><ul class="resume-item-list"><li>Search for milli-lensing events in the current catalog by performing parameter estimation</li><li>Test the state-of-the-art sampler, flowMC, on gravitational wave parameter estimation</li></ul>
+
+# Study of self-interacting dark matter
+- project: Study of self-interacting dark matter
+  role: The Chinese University of Hong Kong
+  duration: May 2020 &mdash; Jul 2020
+  # url: "#"
+  description: Supervisors&#58; Prof. Ming Chung Chu<br><ul class="resume-item-list"><li>Study fermionic dark matter by comparing observational data with simulated density profile of dark matter-dominated halos</li><li>Study the evolution of self-interacting dark matter halo by modifying existing simulation code in Julia</li></ul>
