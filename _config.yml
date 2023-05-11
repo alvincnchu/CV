@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Thomas C. K. Ng"
-resume_title:                   "Physics Undergraduate"
+resume_title:                   "MPhil (Physics) Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "thomas.ng@link.cuhk.edu.hk"

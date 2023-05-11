@@ -13,7 +13,7 @@
   role: The Chinese University of Hong Kong
   duration: Nov 2022 &mdash; Present
   # url: "#"
-  description: Supervisors&#58; Prof. Otto A. Hannuksela, Dr. Kaze W. K. Wong<br><ul class="resume-item-list"><li>Search for milli-lensing events in the current catalog by performing parameter estimation</li><li>Test the state-of-the-art sampler, flowMC, on gravitational wave parameter estimation</li></ul>
+  description: Supervisors&#58; Prof. Otto A. Hannuksela<br><ul class="resume-item-list"><li>Search for milli-lensing events in the current catalog by performing parameter estimation</li><li>Test the state-of-the-art sampler, flowMC, on gravitational wave parameter estimation</li></ul>
 
 # Study of self-interacting dark matter
 - project: Study of self-interacting dark matter
