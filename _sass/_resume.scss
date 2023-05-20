@@ -160,13 +160,13 @@
   .resume-item-copy,
   .resume-item-list {
     a {
-      color: #333 !important;
-      text-decoration: none !important;
-      border-bottom: 1px solid !important;
+      color: #333;
+      text-decoration: none;
+      border-bottom: 1px solid;
 
       &:hover {
-        border-bottom: none !important;
-        color: #9c9c9c !important;
+        border-bottom: none;
+        color: #9c9c9c;
       }
     }
   }
@@ -230,5 +230,7 @@
         font-size: 11px;
       }
     }
+
+    .resume-item-copy { margin: .75rem 0 0; }
   }
 }
