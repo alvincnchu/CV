@@ -5,17 +5,17 @@
 - project: Constraining gravitational wave amplitude birefringence
   role: Flatiron Institute, Manhattan, NY
   duration: May 2012 &mdash; Present
-  description: Publication&#58; T. C. K. Ng, M. Isi, K. W. K. Wong, and W. M. Farr, Constraining gravitational wave amplitude birefringence with GWTC-3. <a href="https://arxiv.org/abs/2305.05844" itemprop="url">arXiv:2305.05844</a><br>Supervisors&#58; Prof. Will M. Farr, Dr. Maximiliano Isi, Dr. Kaze W. K. Wong<ul class="resume-item-list"><li>Constrain the strength of amplitude birefringence by performing parameter estimations on events in GWTC-3 using Bilby</li><li>Perform statistical analysis to calculate the population probability of the strength of amplitude birefringence using python</li></ul>
+  description: Publication&#58; T. C. K. Ng, M. Isi, K. W. K. Wong, and W. M. Farr, Constraining gravitational wave amplitude birefringence with GWTC-3. <a href="https://arxiv.org/abs/2305.05844" itemprop="url">arXiv:2305.05844</a><br>Supervisors&#58; <a href="https://inspirehep.net/authors/1044235" itemprop="url">Prof. Will M. Farr</a>, <a href="https://inspirehep.net/authors/1275240" itemprop="url">Dr. Maximiliano Isi</a>, <a href="https://inspirehep.net/authors/1789361" itemprop="url">Dr. Kaze W. K. Wong</a><ul class="resume-item-list"><li>Constrain the strength of amplitude birefringence by performing parameter estimations on events in GWTC-3 using Bilby</li><li>Perform statistical analysis to calculate the population probability of the strength of amplitude birefringence using python</li></ul>
 
 # Search of gravitational milli-lensing with flowMC
 - project: Search of gravitational milli-lensing with flowMC
   role: The Chinese University of Hong Kong
   duration: Nov 2022 &mdash; Present
-  description: Supervisors&#58; Prof. Otto A. Hannuksela, Anna Liu<ul class="resume-item-list"><li>Search for milli-lensing events in the current catalog by performing parameter estimation</li><li>Test the state-of-the-art sampler, flowMC, on gravitational wave parameter estimation</li></ul>
+  description: Supervisors&#58; <a href="https://inspirehep.net/authors/1765938" itemprop="url">Prof. Otto A. Hannuksela</a>, <a href="https://inspirehep.net/authors/2656456" itemprop="url">Anna Liu</a><ul class="resume-item-list"><li>Search for milli-lensing events in the current catalog by performing parameter estimation</li><li>Test the state-of-the-art sampler, flowMC, on gravitational wave parameter estimation</li></ul>
 
 # Study of self-interacting dark matter
 - project: Study of self-interacting dark matter
   role: The Chinese University of Hong Kong
   duration: May 2020 &mdash; Jul 2020
   url: "images/SIDM.pdf"
-  description: Supervisors&#58; Prof. Ming Chung Chu<ul class="resume-item-list"><li>Study fermionic dark matter by comparing observational data with simulated density profile of dark matter-dominated halos</li><li>Study the evolution of self-interacting dark matter halo by modifying existing simulation code in Julia</li></ul>
+  description: Supervisors&#58; <a href="https://inspirehep.net/authors/1041004" itemprop="url">Prof. Ming Chung Chu</a><ul class="resume-item-list"><li>Study fermionic dark matter by comparing observational data with simulated density profile of dark matter-dominated halos</li><li>Study the evolution of self-interacting dark matter halo by modifying existing simulation code in Julia</li></ul>
