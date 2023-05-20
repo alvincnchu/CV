@@ -4,7 +4,7 @@
 # Constraining gravitational wave amplitude birefringence with GWTC-3
 - project: Constraining gravitational wave amplitude birefringence
   role: Flatiron Institute, Manhattan, NY
-  duration: May 2012 &mdash; Present
+  duration: May 2022 &mdash; Present
   description: Publication&#58; T. C. K. Ng, M. Isi, K. W. K. Wong, and W. M. Farr, Constraining gravitational wave amplitude birefringence with GWTC-3. <a href="https://arxiv.org/abs/2305.05844" itemprop="url">arXiv:2305.05844</a><br>Supervisors&#58; <a href="https://inspirehep.net/authors/1044235" itemprop="url">Prof. Will M. Farr</a>, <a href="https://inspirehep.net/authors/1275240" itemprop="url">Dr. Maximiliano Isi</a>, <a href="https://inspirehep.net/authors/1789361" itemprop="url">Dr. Kaze W. K. Wong</a><ul class="resume-item-list"><li>Constrain the strength of amplitude birefringence by performing parameter estimations on events in GWTC-3 using Bilby</li><li>Perform statistical analysis to calculate the population probability of the strength of amplitude birefringence using python</li></ul>
 
 # Search of gravitational milli-lensing with flowMC
