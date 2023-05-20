@@ -17,5 +17,5 @@
 - project: Study of self-interacting dark matter
   role: The Chinese University of Hong Kong
   duration: May 2020 &mdash; Jul 2020
-  url: "images\SIDM.pdf"
+  url: "images/SIDM.pdf"
   description: Supervisors&#58; Prof. Ming Chung Chu<ul class="resume-item-list"><li>Study fermionic dark matter by comparing observational data with simulated density profile of dark matter-dominated halos</li><li>Study the evolution of self-interacting dark matter halo by modifying existing simulation code in Julia</li></ul>
