@@ -29,5 +29,5 @@
   # role: The Chinese University of Hong Kong
   duration: May 2021 &mdash; Jul 2021
   # url: "images/SIDM.pdf"
-  description: <a href="images/SIDM.pdf" itemprop="url">Short Paper Summary</a><br><br>Supervisor&#58; <a href="https://inspirehep.net/authors/1041004" itemprop="url">Prof. Ming Chung Chu</a><ul class="resume-item-list"><li>Study fermionic dark matter by comparing observational data with simulated density profile of dark matter-dominated halos</li><li>Study the evolution of self-interacting dark matter halo by modifying existing simulation code in Julia</li></ul>
+  description: <a href="images/SIDM.pdf" itemprop="url">Poster</a><br><br>Supervisor&#58; <a href="https://inspirehep.net/authors/1041004" itemprop="url">Prof. Ming Chung Chu</a><ul class="resume-item-list"><li>Study fermionic dark matter by comparing observational data with simulated density profile of dark matter-dominated halos</li><li>Study the evolution of self-interacting dark matter halo by modifying existing simulation code in Julia</li></ul>
   
