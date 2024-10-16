@@ -95,6 +95,26 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_interns %}
+      <!-- begin Interns -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Interns</h2>
+        </header>
+
+        {% for interns in site.data.interns %}
+        <div class="resume-item" itemscope itemprop="memberOf" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{% if interns.url %}<a href="{{ interns.url }}">{{ interns.organization }}</a>{% else %}{{ interns.organization }}{% endif %}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ interns.role }} &bull; {{ interns.year }}</h4>
+          <p class="resume-item-copy">{{ interns.summary }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Interns -->
+      {% endif %}
+
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">
