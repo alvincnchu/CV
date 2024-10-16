@@ -1,8 +1,8 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: CUHK Astronomy Club
-  role: President
-  year: Feb 2020 &mdash; Jan 2021
-  url: http://cuhkastronomy.org/
+- organization: Physics Student Conference 2022, The Chinese University of Hong Kong
+  role: Organizer
+  year: May 2022 &mdash; Oct 2022
+  # url: http://cuhkastronomy.org/
   # summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
